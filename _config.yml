@@ -114,11 +114,11 @@ content:
   - title: Blogs, Presentations, and Open-source projects
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <mark>Blogs:</mark>
+      <mark>Blogs</mark>
       - [Automated thumbnail generation for videos](https://mediadistillery.com/news/the-winning-formula)
       - [Throwback to 2020: a data analysis of the year on television](https://mediadistillery.com/news/throwback-to-2020)
       
-      <mark>Presentations:</mark>
+      <mark>Presentations</mark>
       - [You can judge a video by its cover](https://www.youtube.com/watch?v=rmQlVD210GE). Presented at Tweakers Developers Summit (2020) and Teqnation (2021)
       - [The state of AI in 2021](https://vimeo.com/659239891). Internal presentation at Media Distillery
       
