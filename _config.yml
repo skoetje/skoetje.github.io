@@ -49,8 +49,8 @@ linkedin_username: bramzijlstra
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  Hi, my name's Bram and I'm a senior machine learning engineer. Besides training machine learning models, I have experience in MLOps, project management, and leading tech teams. 
-
+  Hi, my name's Bram and I'm a senior machine learning engineer. Besides training machine learning models, I have experience in MLOps, project management, and leading tech teams.
+  
 
 content:
 #  - title: Projects # Title for the section
@@ -84,7 +84,7 @@ content:
         quote: >
           Creating 21st century software for TV operators and video service providers
         description: | # this will include new lines to allow paragraphs
-          Building end-to-end machine learning software using both computer vision and natural language processing.  
+          Building end-to-end machine learning software using both <mark>computer vision</mark> and <mark>natural language processing</mark>.  
 
 #  - title: Public Work # Title for the section
 #      layout: list # Type of content section (list/text)
